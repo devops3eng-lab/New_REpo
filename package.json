@@ -1,0 +1,8 @@
+{
+  "name": "sample-node-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"No tests yet\"",
+    "start": "node index.js"
+  }
+}
